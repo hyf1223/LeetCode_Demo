@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayDemo/ArrayDemo.iml" filepath="$PROJECT_DIR$/ArrayDemo/ArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackTrackingDemo/BackTrackingDemo.iml" filepath="$PROJECT_DIR$/BackTrackingDemo/BackTrackingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgrammingDemo/DynamicProgrammingDemo.iml" filepath="$PROJECT_DIR$/DynamicProgrammingDemo/DynamicProgrammingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListDemo/LinkedListDemo.iml" filepath="$PROJECT_DIR$/LinkedListDemo/LinkedListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimulationDemo/SimulationDemo.iml" filepath="$PROJECT_DIR$/SimulationDemo/SimulationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackDemo/StackDemo.iml" filepath="$PROJECT_DIR$/StackDemo/StackDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/StringDemo/StringDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDemo/TestDemo.iml" filepath="$PROJECT_DIR$/TestDemo/TestDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeDemo/TreeDemo.iml" filepath="$PROJECT_DIR$/TreeDemo/TreeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据结构/数据结构.iml" filepath="$PROJECT_DIR$/数据结构/数据结构.iml" />
+    </modules>
+  </component>
+</project>

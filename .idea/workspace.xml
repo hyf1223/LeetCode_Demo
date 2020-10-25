@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1346f942-e4da-4d6d-82a1-e567af187169" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,32 +45,34 @@
   </component>
   <component name="ProjectId" id="1S0imq4lZftIFZ9l0LRpw1zqF8e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.LC_124_二叉树中的最大路径和">
+  <component name="RunManager" selected="Application.JZ_3_从尾到头打印链表">
+    <configuration name="JZ_3_从尾到头打印链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JZ_3_从尾到头打印链表" />
+      <module name="LinkedListDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LC_124_二叉树中的最大路径和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LC_124_二叉树中的最大路径和" />
       <module name="DynamicProgrammingDemo" />
@@ -77,29 +101,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zh_3_P1541" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="一步步发明DP_知乎.zh_3_P1541" />
-      <module name="DynamicProgrammingDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="一步步发明DP_知乎.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JZ_3_从尾到头打印链表" />
         <item itemvalue="Application.LC_124_二叉树中的最大路径和" />
         <item itemvalue="Application.LC_72_编辑距离" />
         <item itemvalue="Application.LC_64_最小路径和" />
         <item itemvalue="Application.LC_62_不同路径" />
-        <item itemvalue="Application.zh_3_P1541" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -125,11 +148,14 @@
       <workItem from="1601185944829" duration="13201000" />
       <workItem from="1602048093919" duration="6959000" />
       <workItem from="1603260201956" duration="2609000" />
+      <workItem from="1603616272946" duration="500000" />
+      <workItem from="1603616781791" duration="493000" />
+      <workItem from="1603617286303" duration="514000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -141,6 +167,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1305" y="392" key="#Plugins" timestamp="1603616768889">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1305" y="392" key="#Plugins/0.0.2560.1400@0.0.2560.1400" timestamp="1603616768889" />
+    <state x="1493" y="502" key="FileChooserDialogImpl" timestamp="1603617127102">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1493" y="502" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1603617127102" />
+    <state width="1342" height="266" key="GridCell.Tab.0.bottom" timestamp="1603616772293">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1342" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1603616772293" />
+    <state width="1342" height="266" key="GridCell.Tab.0.center" timestamp="1603616772293">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1342" height="266" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1603616772293" />
+    <state width="1342" height="266" key="GridCell.Tab.0.left" timestamp="1603616772293">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1342" height="266" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1603616772293" />
+    <state width="1342" height="266" key="GridCell.Tab.0.right" timestamp="1603616772293">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1342" height="266" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1603616772293" />
+    <state x="1229" y="355" key="SettingsEditor" timestamp="1603617249554">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1229" y="355" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1603617249554" />
+    <state x="1419" y="463" width="672" height="678" key="search.everywhere.popup" timestamp="1603616704409">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1419" y="463" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1603616704409" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
